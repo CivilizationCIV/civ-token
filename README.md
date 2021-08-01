@@ -27,3 +27,40 @@ We aim at being the world's fully DEX Fund, meaning anonymous and software code 
 ### Where Can I Buy the Civilization token (CIV)?
 
 CIV is available for trading exclusively on the Ethereum network, initially on Uniswap v2 and thereafter on a growing number of exchanges.
+
+### What is the vision?
+
+https://medium.com/@sator-settler/civilization-civ-decentralized-investing-for-everyone-99a8b38cb485
+
+### What are the Ethereum contract details?
+
+🗝 Contract ID: 0x37fe0f067fa808ffbdd12891c0858532cfe7361d
+
+Auditable contract code on Etherscan: https://etherscan.io/address/0x37fe0f067fa808ffbdd12891c0858532cfe7361d#code
+
+100% of the initial Liquidity has been Locked forever. Proof: https://etherscan.io/tx/0xee397d2121b966ee9acac404aff1854efa93a92b0bc32f0a77578d7913ef1b98
+https://etherscan.io/token/0xed247449a7ca06db5b27b44b2c092f0b48bbdb77?a=0xdead000000000000000042069420694206942069
+
+### How to buy?
+
+⚙️ The only places to buy and sell $CIV safely are decentralized exchanges like Uniswap and Shibaswap. It is an ERC-20 Ethereum token, there is no Binance Smart Chain version of it. 
+
+Need instructions to buy? Read the introduction: https://medium.com/@sator-settler/how-to-buy-dex-tokens-456523fff19
+
+🦄 Buy now on Uniswap https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x37fe0f067fa808ffbdd12891c0858532cfe7361d
+
+🐶 Buy now on ShibaSwap https://shibaswap.com/#/swap?inputCurrency=ETH&outputCurrency=0x37fe0f067fa808ffbdd12891c0858532cfe7361d
+
+📈 Real-time Price Chart https://www.dextools.io/app/uniswap/pair-explorer/0xed247449a7ca06db5b27b44b2c092f0b48bbdb77
+
+### Can everyone join?
+
+Join us and help, it's a community project!
+We are all volunteers, sharing a vision, passionate to make it happen.
+
+💬Twitter
+@civ_token
+@SatorSettler
+
+💬Telegram 
+Global official: https://t.me/civsettlers
