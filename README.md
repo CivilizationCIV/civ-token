@@ -1,3 +1,5 @@
+[![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/e743c244-235f-4085-bf7d-25b84aaa36a8/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
+
 # civ-token
 
 the official ERC-20 token contract code.
