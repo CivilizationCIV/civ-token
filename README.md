@@ -4,6 +4,22 @@
 
 the official ERC-20 token contract code.
 
+## Bug Bounty
+
+- You can receive up to $25,000 for critical bugs
+- To report your findings, please visit our page on [Immunefi]
+- Welcome to help us strengthen our security!
+
+Bug severity is classified according to the industry standard.
+They can range from Critical (=very high severity, potentially disruptive) to None (= very low severity, advice only).
+Bounties are awarded based on the severity of the discovered vulnerability.
+
+> Immunefi is DeFi's leading bug bounty platform,
+> protecting $100 billion in user funds.
+> Hack DeFi, save users from theft, and get paid doing it!
+
+   [Immunefi]: <https://www.immunefi.com/bounty/civilization>
+
 ## What Is Civilization (CIV)?
 
 CIV aims at building the world’s first Dex Fund: transforming the way how staking and investment are done, with 100% auditable code and, eventually, automated multi-strategy selection for maximum yield at minimum risk.
